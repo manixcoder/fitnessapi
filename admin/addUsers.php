@@ -70,7 +70,16 @@ include("includes/header.php");
                     </div>
                     <div class="form-group">
                         <label for="Age">Age</label>
-                        <input type="text" class="form-control" name="Age" id="Age" placeholder="Age">
+                        <select name="Age" id="Age" class="form-control">
+                            <option value="">Select Age</option>
+                            <?php
+                            for ($i = 10; $i <= 100; $i++) {
+                            ?>
+                                <option value="<?php echo $i; ?>"><?php echo $i; ?> Years</option>
+                            <?php }
+                            ?>
+                            </select>
+                        
                     </div>
                     <div class="form-group">
                         <label for="healthOption">healthOption</label>
