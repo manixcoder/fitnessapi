@@ -47,9 +47,9 @@ $res    = mysqli_num_rows($resnum);
                                                 <th class="sorting" style="color: green" tabindex="0" aria-controls="example2" rowspan="1" colspan="1" aria-label="Platform(s): activate to sort column ascending">
                                                     user name
                                                 </th>
-                                                <th class="sorting" style="color: red" tabindex="0" aria-controls="example2" rowspan="1" colspan="1" aria-label="CSS grade: activate to sort column ascending">
+                                                <!-- <th class="sorting" style="color: red" tabindex="0" aria-controls="example2" rowspan="1" colspan="1" aria-label="CSS grade: activate to sort column ascending">
                                                     Action
-                                                </th>
+                                                </th> -->
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -64,10 +64,10 @@ $res    = mysqli_num_rows($resnum);
                                                     <td class="sorting_1"><?php echo $i; ?></td>
                                                     <td><?php echo $result_arr['watercount']; ?></td>
                                                     <td><?php echo $result_arrUs['name']; ?></td>
-                                                    <td>
+                                                    <!-- <td>
                                                         <a href="<?php echo BASE_URL; ?>/editWatertracker.php?id=<?php echo $result_arr['id']; ?>">Edit</a>|
                                                         <a href="<?php echo BASE_URL; ?>/deleteWatertracker.php?id=<?php echo $result_arr['id']; ?>">Delete</a>
-                                                    </td>
+                                                    </td> -->
                                                 </tr>
                                             <?php
                                                 $i++;
@@ -78,7 +78,7 @@ $res    = mysqli_num_rows($resnum);
                                                 <th rowspan="1" colspan="1" style="color: green">Id</th>
                                                 <th rowspan="1" colspan="1" style="color: green">watercount</th>
                                                 <th rowspan="1" colspan="1" style="color: green">userid</th>
-                                                <th rowspan="1" colspan="1" style="color: red">Action</th>
+                                                <!-- <th rowspan="1" colspan="1" style="color: red">Action</th> -->
                                             </tr>
                                         </tfoot>
                                     </table>
