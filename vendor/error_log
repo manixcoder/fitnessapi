@@ -1,0 +1,318 @@
+[27-Jan-2022 14:48:31 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:49:02 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:49:03 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:49:03 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:49:03 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:49:03 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:49:03 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:49:03 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:49:03 America/Toronto] PHP Fatal error:  require(): Failed opening required 'PHPMailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:49:03 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:49:03 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:49:04 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:49:04 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:49:04 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:49:04 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:49:04 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:49:04 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:49:04 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:49:04 America/Toronto] PHP Fatal error:  require(): Failed opening required 'PHPMailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:49:04 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:49:04 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:49:11 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:49:11 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:49:11 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:49:11 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:49:11 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:49:11 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:49:11 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:49:11 America/Toronto] PHP Fatal error:  require(): Failed opening required 'PHPMailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:49:11 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:49:11 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:50:28 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:50:28 America/Toronto] PHP Warning:  require(/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:50:28 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:50:28 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:50:28 America/Toronto] PHP Warning:  require(/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:50:28 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:50:28 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:50:28 America/Toronto] PHP Fatal error:  require(): Failed opening required '/phpmailer/phpmailer/src/Exception.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:50:28 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:50:28 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:50:30 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:50:30 America/Toronto] PHP Warning:  require(/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:50:30 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:50:30 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:50:30 America/Toronto] PHP Warning:  require(/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:50:30 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:50:30 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:50:30 America/Toronto] PHP Fatal error:  require(): Failed opening required '/phpmailer/phpmailer/src/Exception.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:50:30 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:50:30 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:50:32 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:50:32 America/Toronto] PHP Warning:  require(/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:50:32 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:50:32 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:50:32 America/Toronto] PHP Warning:  require(/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:50:32 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:50:32 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:50:32 America/Toronto] PHP Fatal error:  require(): Failed opening required '/phpmailer/phpmailer/src/Exception.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:50:32 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:50:32 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:50:53 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:50:53 America/Toronto] PHP Warning:  require(/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:50:53 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:50:53 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:50:53 America/Toronto] PHP Warning:  require(/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:50:53 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:50:53 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:50:53 America/Toronto] PHP Fatal error:  require(): Failed opening required '/phpmailer/phpmailer/src/Exception.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:50:53 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:50:53 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:51:09 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:51:09 America/Toronto] PHP Warning:  require(/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:51:09 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:51:09 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:51:09 America/Toronto] PHP Warning:  require(/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:51:09 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:51:09 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:51:09 America/Toronto] PHP Fatal error:  require(): Failed opening required '/phpmailer/phpmailer/src/Exception.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:51:09 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:51:09 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:51:24 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:51:24 America/Toronto] PHP Warning:  require(/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:51:24 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:51:24 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:51:24 America/Toronto] PHP Warning:  require(/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:51:24 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:51:24 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:51:24 America/Toronto] PHP Fatal error:  require(): Failed opening required '/phpmailer/phpmailer/src/Exception.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:51:24 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:51:24 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:51:46 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:51:46 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 11
+[27-Jan-2022 14:51:46 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:51:46 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:51:46 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 11
+[27-Jan-2022 14:51:46 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:51:46 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:51:46 America/Toronto] PHP Fatal error:  require(): Failed opening required 'PHPMailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 11
+[27-Jan-2022 14:51:46 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:51:46 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:51:48 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:51:48 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 11
+[27-Jan-2022 14:51:48 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:51:48 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:51:48 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 11
+[27-Jan-2022 14:51:48 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:51:48 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:51:48 America/Toronto] PHP Fatal error:  require(): Failed opening required 'PHPMailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 11
+[27-Jan-2022 14:51:48 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:51:48 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:51:49 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:51:49 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 11
+[27-Jan-2022 14:51:49 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:51:49 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:51:49 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 11
+[27-Jan-2022 14:51:49 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:51:49 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:51:49 America/Toronto] PHP Fatal error:  require(): Failed opening required 'PHPMailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 11
+[27-Jan-2022 14:51:49 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:51:49 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:52:15 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:52:15 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 11
+[27-Jan-2022 14:52:15 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:52:15 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:52:15 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 11
+[27-Jan-2022 14:52:15 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:52:15 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:52:15 America/Toronto] PHP Fatal error:  require(): Failed opening required 'PHPMailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 11
+[27-Jan-2022 14:52:15 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:52:15 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:52:16 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:52:16 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 11
+[27-Jan-2022 14:52:16 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:52:16 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:52:16 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 11
+[27-Jan-2022 14:52:16 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:52:16 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:52:16 America/Toronto] PHP Fatal error:  require(): Failed opening required 'PHPMailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 11
+[27-Jan-2022 14:52:16 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:52:16 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:52:28 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:52:28 America/Toronto] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/advent12/public_html/api/vendor/forgotpassword.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/advent12/public_html/api/vendor/forgotpassword.php on line 66
+[27-Jan-2022 14:52:28 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:52:28 America/Toronto] PHP   1. newrelic_exception_handler() UNKNOWN?:0
+[27-Jan-2022 14:53:02 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:53:02 America/Toronto] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/advent12/public_html/api/vendor/forgotpassword.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/advent12/public_html/api/vendor/forgotpassword.php on line 66
+[27-Jan-2022 14:53:02 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:53:02 America/Toronto] PHP   1. newrelic_exception_handler() UNKNOWN?:0
+[27-Jan-2022 14:53:28 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:53:29 America/Toronto] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/advent12/public_html/api/vendor/forgotpassword.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/advent12/public_html/api/vendor/forgotpassword.php on line 66
+[27-Jan-2022 14:53:29 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:53:29 America/Toronto] PHP   1. newrelic_exception_handler() UNKNOWN?:0
+[27-Jan-2022 14:53:58 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:53:58 America/Toronto] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/advent12/public_html/api/vendor/forgotpassword.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/advent12/public_html/api/vendor/forgotpassword.php on line 66
+[27-Jan-2022 14:53:58 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:53:58 America/Toronto] PHP   1. newrelic_exception_handler() UNKNOWN?:0
+[27-Jan-2022 14:54:56 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:54:56 America/Toronto] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/advent12/public_html/api/vendor/forgotpassword.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/advent12/public_html/api/vendor/forgotpassword.php on line 66
+[27-Jan-2022 14:54:56 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:54:56 America/Toronto] PHP   1. newrelic_exception_handler() UNKNOWN?:0
+[27-Jan-2022 14:55:36 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:55:36 America/Toronto] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/advent12/public_html/api/vendor/forgotpassword.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/advent12/public_html/api/vendor/forgotpassword.php on line 66
+[27-Jan-2022 14:55:36 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:55:36 America/Toronto] PHP   1. newrelic_exception_handler() UNKNOWN?:0
+[27-Jan-2022 14:55:38 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:55:39 America/Toronto] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/advent12/public_html/api/vendor/forgotpassword.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/advent12/public_html/api/vendor/forgotpassword.php on line 66
+[27-Jan-2022 14:55:39 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:55:39 America/Toronto] PHP   1. newrelic_exception_handler() UNKNOWN?:0
+[27-Jan-2022 14:57:14 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:57:14 America/Toronto] PHP Warning:  require(vendor/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:57:14 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:57:14 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:57:14 America/Toronto] PHP Warning:  require(vendor/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:57:14 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:57:14 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:57:14 America/Toronto] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/Exception.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:57:14 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:57:14 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:57:17 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:57:17 America/Toronto] PHP Warning:  require(vendor/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:57:17 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:57:17 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:57:17 America/Toronto] PHP Warning:  require(vendor/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:57:17 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:57:17 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:57:17 America/Toronto] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/Exception.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:57:17 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:57:17 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:57:17 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:57:17 America/Toronto] PHP Warning:  require(vendor/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:57:17 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:57:17 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:57:17 America/Toronto] PHP Warning:  require(vendor/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:57:17 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:57:17 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:57:17 America/Toronto] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/Exception.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:57:17 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:57:17 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:57:18 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:57:18 America/Toronto] PHP Warning:  require(vendor/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:57:18 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:57:18 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:57:18 America/Toronto] PHP Warning:  require(vendor/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:57:18 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:57:18 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:57:18 America/Toronto] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/Exception.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:57:18 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:57:18 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:57:57 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:57:57 America/Toronto] PHP Warning:  require(vendor/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:57:57 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:57:57 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:57:57 America/Toronto] PHP Warning:  require(vendor/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:57:57 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:57:57 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:57:57 America/Toronto] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/Exception.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:57:57 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:57:57 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:57:58 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:57:58 America/Toronto] PHP Warning:  require(vendor/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:57:58 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:57:58 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:57:58 America/Toronto] PHP Warning:  require(vendor/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:57:58 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:57:58 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:57:58 America/Toronto] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/Exception.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 9
+[27-Jan-2022 14:57:58 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:57:58 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:58:32 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:58:32 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:58:32 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:58:32 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:58:32 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:58:32 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:58:32 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:58:32 America/Toronto] PHP Fatal error:  require(): Failed opening required 'PHPMailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:58:32 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:58:32 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:58:33 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:58:33 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:58:33 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:58:33 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:58:33 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:58:33 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:58:33 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:58:33 America/Toronto] PHP Fatal error:  require(): Failed opening required 'PHPMailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:58:33 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:58:33 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:59:47 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:59:47 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:59:47 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:59:47 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:59:47 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:59:47 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:59:47 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:59:47 America/Toronto] PHP Fatal error:  require(): Failed opening required 'PHPMailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:59:47 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:59:47 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:59:48 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 14:59:48 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:59:48 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:59:48 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:59:48 America/Toronto] PHP Warning:  require(PHPMailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:59:48 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:59:48 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 14:59:48 America/Toronto] PHP Fatal error:  require(): Failed opening required 'PHPMailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 10
+[27-Jan-2022 14:59:48 America/Toronto] PHP Stack trace:
+[27-Jan-2022 14:59:48 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 15:01:11 America/Toronto] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[27-Jan-2022 15:01:11 America/Toronto] PHP Warning:  Use of undefined constant FCPATH - assumed 'FCPATH' (this will throw an Error in a future version of PHP) in /home/advent12/public_html/api/vendor/forgotpassword.php on line 11
+[27-Jan-2022 15:01:11 America/Toronto] PHP Stack trace:
+[27-Jan-2022 15:01:11 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 15:01:11 America/Toronto] PHP Warning:  include_once(FCPATHphpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 11
+[27-Jan-2022 15:01:11 America/Toronto] PHP Stack trace:
+[27-Jan-2022 15:01:11 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 15:01:11 America/Toronto] PHP Warning:  include_once(): Failed opening 'FCPATHphpmailer/phpmailer/src/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 11
+[27-Jan-2022 15:01:11 America/Toronto] PHP Stack trace:
+[27-Jan-2022 15:01:11 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 15:01:11 America/Toronto] PHP Warning:  Use of undefined constant FCPATH - assumed 'FCPATH' (this will throw an Error in a future version of PHP) in /home/advent12/public_html/api/vendor/forgotpassword.php on line 12
+[27-Jan-2022 15:01:11 America/Toronto] PHP Stack trace:
+[27-Jan-2022 15:01:11 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 15:01:11 America/Toronto] PHP Warning:  include_once(FCPATHphpmailer/phpmailer/src/SMTP.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 12
+[27-Jan-2022 15:01:11 America/Toronto] PHP Stack trace:
+[27-Jan-2022 15:01:11 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 15:01:11 America/Toronto] PHP Warning:  include_once(): Failed opening 'FCPATHphpmailer/phpmailer/src/SMTP.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 12
+[27-Jan-2022 15:01:11 America/Toronto] PHP Stack trace:
+[27-Jan-2022 15:01:11 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 15:01:11 America/Toronto] PHP Warning:  Use of undefined constant FCPATH - assumed 'FCPATH' (this will throw an Error in a future version of PHP) in /home/advent12/public_html/api/vendor/forgotpassword.php on line 13
+[27-Jan-2022 15:01:11 America/Toronto] PHP Stack trace:
+[27-Jan-2022 15:01:11 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 15:01:11 America/Toronto] PHP Warning:  include_once(FCPATHphpmailer/phpmailer/Exception.php): failed to open stream: No such file or directory in /home/advent12/public_html/api/vendor/forgotpassword.php on line 13
+[27-Jan-2022 15:01:11 America/Toronto] PHP Stack trace:
+[27-Jan-2022 15:01:11 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
+[27-Jan-2022 15:01:11 America/Toronto] PHP Warning:  include_once(): Failed opening 'FCPATHphpmailer/phpmailer/Exception.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/advent12/public_html/api/vendor/forgotpassword.php on line 13
+[27-Jan-2022 15:01:11 America/Toronto] PHP Stack trace:
+[27-Jan-2022 15:01:11 America/Toronto] PHP   1. {main}() /home/advent12/public_html/api/vendor/forgotpassword.php:0
