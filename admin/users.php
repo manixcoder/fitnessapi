@@ -94,7 +94,6 @@ $res    = mysqli_num_rows($resnum);
                                                     <td><?php echo $result_arr['weight']; ?></td>
                                                     <td><?php echo $result_arr['goalweight']; ?></td>
                                                     <td><?php echo $result_arr['height']; ?></td>
-
                                                     <td>
 
                                                         <a href="<?php echo BASE_URL; ?>/viewUsers.php?id=<?php echo $result_arr['id']; ?>">view</a>|

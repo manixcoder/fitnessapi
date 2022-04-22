@@ -21,7 +21,7 @@ $res    = mysqli_num_rows($resnum);
     <section class="content">
         <div class="row">
             <div class="col-xs-12">
-                <a href="<?php echo BASE_URL; ?>/addHomeMaster.php">Add HomeMaster</a>
+                <a href="<?php echo BASE_URL; ?>/addHomeMaster.php"  class="add_btn">Add HomeMaster</a>
                 <div class="box">
                     <div class="box-header">
                         <h3 class="box-title">HomeMaster Data Table</h3>
@@ -68,13 +68,13 @@ $res    = mysqli_num_rows($resnum);
                                             ?>
                                                 <tr role="row" class="odd">
                                                     <td class="sorting_1"><?php echo $i; ?></td>
-                                                    <td><?php echo substr($result_arr['IsAllergiesLink'], 0, 25).'... ';  ?></td>
-                                                    <td><?php echo substr($result_arr['IsPregnentLink'], 0, 25).'... ';  ?></td>
-                                                    <td><?php echo substr($result_arr['IsDefaultLink'], 0, 25).'... ';  ?></td>
-                                                    <td><?php echo substr($result_arr['bottomHeader'], 0, 25).'... ';  ?></td>
-                                                    <td><?php echo substr($result_arr['bottomNotes'], 0, 25).'... ';  ?></td>
+                                                    <td><?php echo substr($result_arr['IsAllergiesLink'], 0, 25) . '... ';  ?></td>
+                                                    <td><?php echo substr($result_arr['IsPregnentLink'], 0, 25) . '... ';  ?></td>
+                                                    <td><?php echo substr($result_arr['IsDefaultLink'], 0, 25) . '... ';  ?></td>
+                                                    <td><?php echo substr($result_arr['bottomHeader'], 0, 25) . '... ';  ?></td>
+                                                    <td><?php echo substr($result_arr['bottomNotes'], 0, 25) . '... ';  ?></td>
                                                     <td>
-                                                    <a href="<?php echo BASE_URL; ?>/viewHomeMaster.php?id=<?php echo $result_arr['Id']; ?>">View</a>|
+                                                        <a href="<?php echo BASE_URL; ?>/viewHomeMaster.php?id=<?php echo $result_arr['Id']; ?>">View</a>|
                                                         <a href="<?php echo BASE_URL; ?>/editHomeMaster.php?id=<?php echo $result_arr['Id']; ?>">Edit</a>|
                                                         <a href="<?php echo BASE_URL; ?>/deleteHomeMaster.php?id=<?php echo $result_arr['Id']; ?>">Delete</a>
                                                     </td>

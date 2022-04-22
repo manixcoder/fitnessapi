@@ -18,8 +18,7 @@ include("includes/header.php");
 
     <!-- Main content -->
     <section class="content">
-        <div class="row"><?php // echo "<pre>";print_r($result_arr); 
-                            ?>
+        <div class="row">
             <form role="form" method="post" action="<?php echo BASE_URL; ?>/insertRecipe.php" enctype='multipart/form-data'>
                 <div class="box-body">
                     <div class="form-group">
@@ -58,7 +57,11 @@ include("includes/header.php");
 
                     <div class="form-group">
                         <label for="cat">cat</label>
-                        <input type="text" class="form-control" name="cat" id="cat" placeholder="Enter cat">
+                        <select name="cat" id="cat" class="form-control" require>
+                            <option value="">Select category</option>
+                            <option value="V">Veg</option>
+                            <option value="NV">Non Veg</option>
+                        </select>
                     </div>
 
                 </div>

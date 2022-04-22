@@ -9,7 +9,7 @@ if (isset($_POST['login'])) {
     $res    = mysqli_num_rows($resnum);
     if ($res > 0) {
         $_SESSION['admin_data'] = $result_arr; // string
-        header("Location: ".BASE_URL."/dashboard.php");
+        header("Location: " . BASE_URL . "/dashboard.php");
     }
 }
 ?>

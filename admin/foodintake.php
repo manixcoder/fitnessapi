@@ -33,9 +33,7 @@ $res    = mysqli_num_rows($resnum);
                         <div id="example2_wrapper" class="dataTables_wrapper form-inline dt-bootstrap">
                             <div class="row">
                                 <div class="col-sm-6"></div>
-                                <div class="col-sm-6">
-                                    
-                                </div>
+                                <div class="col-sm-6">   </div>
                             </div>
                             <div class="row">
                                 <div class="col-sm-12">
@@ -58,12 +56,10 @@ $res    = mysqli_num_rows($resnum);
                                             
                                             $i = 1;
                                             while ($result_arr = mysqli_fetch_assoc($resnum)) {
-                                                //echo $user_id =  $result_arr['id']."<br>";
-                                            ?>
+                                                ?>
                                                 <tr role="row" class="odd">
                                                     <td class="sorting_1"><?php echo $i; ?></td>
                                                     <td><?php echo $result_arr['name']; ?></td>
-
                                                     <td>
                                                         <a href="<?php echo BASE_URL; ?>/editfoodintake.php?id=<?php echo $result_arr['id']; ?>">Edit</a>|
                                                         <a href="<?php echo BASE_URL; ?>/deletefoodintake.php?id=<?php echo $result_arr['id']; ?>">Delete</a>

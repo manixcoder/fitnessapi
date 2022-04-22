@@ -21,7 +21,7 @@ $res    = mysqli_num_rows($resnum);
     <section class="content">
         <div class="row">
             <div class="col-xs-12">
-            <a href="<?php echo BASE_URL; ?>/addChallangesmaster.php" >Add challangesmaster</a>
+            <a href="<?php echo BASE_URL; ?>/addChallangesmaster.php"  class="add_btn">Add challangesmaster</a>
                 <div class="box">
                     <div class="box-header">
                         <h3 class="box-title">challangesmaster Data Table</h3>
