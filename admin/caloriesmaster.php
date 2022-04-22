@@ -21,7 +21,7 @@ $res    = mysqli_num_rows($resnum);
     <section class="content">
         <div class="row">
             <div class="col-xs-12">
-                <a href="<?php echo BASE_URL; ?>/addCaloriesmaster.php"  class="add_btn">Add caloriesmaster</a>
+                <a href="<?php echo BASE_URL; ?>/addCaloriesmaster.php" class="add_btn">Add caloriesmaster</a>
                 <div class="box">
                     <div class="box-header">
                         <h3 class="box-title">caloriesmaster Data Table</h3>
@@ -66,14 +66,16 @@ $res    = mysqli_num_rows($resnum);
                                             //foreach($result_arr as $users)
                                             $i = 1;
                                             while ($result_arr = mysqli_fetch_assoc($resnum)) {
-                                                //echo $user_id =  $result_arr['id']."<br>";
+                                                $queryFood  = "SELECT * FROM `foodintake` WHERE id='" . $result_arr['foodintake_id'] . "'";
+                                                $resnumFood = mysqli_query($con, $queryFood);
+                                                $resultFood = mysqli_fetch_assoc($resnumFood);
                                             ?>
                                                 <tr role="row" class="odd">
                                                     <td class="sorting_1"><?php echo $i; ?></td>
                                                     <td><?php echo $result_arr['item_name']; ?></td>
                                                     <td><?php echo $result_arr['qty']; ?></td>
                                                     <td><?php echo $result_arr['cal_value']; ?></td>
-                                                    <td><?php echo $result_arr['foodintake_id']; ?></td>
+                                                    <td><?php echo $resultFood['name']; ?></td>
 
                                                     <td>
                                                         <a href="<?php echo BASE_URL; ?>/viewCaloriesmaster.php?id=<?php echo $result_arr['item_id']; ?>">View</a>|
